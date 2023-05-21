@@ -20,9 +20,7 @@ To get started with the virtual keyboard, follow these steps:
 1. Clone the repository: `git clone https://github.com/anil2k/virtual-keyboard.git`
 2. Set up the required dependencies, including OpenCV and MediaPipe.
 3. Run the `virtual_keyboard.py` script to start the virtual keyboard application.
-```bash
-python virtual_keyboard.py ```
-5. Interact with the virtual keyboard by positioning your hand and making gestures to simulate key presses.
+4. Interact with the virtual keyboard by positioning your hand and making gestures to simulate key presses.
 
 Refer to the project documentation for more detailed instructions on setup and usage.
 
