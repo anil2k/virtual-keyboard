@@ -5,6 +5,26 @@ This repository contains a virtual keyboard implementation using the OpenCV and 
 
 ![](keyboard.JPG)
 
+## Features
+
+- Real-time hand tracking using the MediaPipe hand detection module.
+- Gesture recognition for various hand gestures or finger positions.
+- Simulates key presses based on the recognized gestures.
+- Graphical user interface (GUI) to display the virtual keyboard on the screen.
+- Integration with OpenCV and MediaPipe for image processing and computer vision tasks.
+
+## Getting Started
+
+To get started with the virtual keyboard, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/anil2k/virtual-keyboard.git`
+2. Set up the required dependencies, including OpenCV and MediaPipe.
+3. Run the `virtual_keyboard.py` script to start the virtual keyboard application.
+4. Interact with the virtual keyboard by positioning your hand and making gestures to simulate key presses.
+
+Refer to the project documentation for more detailed instructions on setup and usage.
+
+
 [youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
 [youtube-url]: https://www.youtube.com/channel/UC8pztyZ8bYiflGMKGcLdAGw
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
