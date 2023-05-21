@@ -24,6 +24,12 @@ To get started with the virtual keyboard, follow these steps:
 
 Refer to the project documentation for more detailed instructions on setup and usage.
 
+## Dependencies
+
+- OpenCV (version 4.7.0)
+- MediaPipe (version 0.9.0.1)
+- NumPy (version 1.19.5)
+
 
 [youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
 [youtube-url]: https://www.youtube.com/channel/UC8pztyZ8bYiflGMKGcLdAGw
